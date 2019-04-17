@@ -11,9 +11,11 @@ This **Mathematica** script (_main.nb_) uses the _ImageRestyle_ function to tran
 2.  Drop the styles you want to transfer styles from to the **styles** folder (_jpg_ or _png_).
 <img src="./styles/t_10.jpg" width=33%>
 3. Open the **main.nb** file and change the required parameters to suit your needs:
+
 ```
 {imagesSize, styleWeight, goal, overlayWeight} = {1500, .8, "Quality", .25};
 ```
+
 4. Run the script and be patient (the algorithms might take several hours). Be sure to disable "*Evaluation>Dynamic Updating Enabled*" option for faster results or change "Quality" for "Speed" as the _Performance Goal_.
 5. The results will slowly be exported to the **batch** folder.
 <img src="./finals/pop008.jpg" width=33%>
