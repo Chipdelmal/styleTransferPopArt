@@ -23,6 +23,8 @@ This **Mathematica** script (_main.nb_) uses the _ImageRestyle_ function to tran
 
 6. Run the **merge.nb** notebook and the final results will be exported to the **art** folder.
 
+<img src="./art/grid.png">
+
 ## More info
 
 * Another application of this ideas (for time-lapse videos) can be accessed in my repository: https://github.com/Chipdelmal/ArtStyleTimeLapseTransfer
